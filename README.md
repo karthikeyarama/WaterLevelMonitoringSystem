@@ -62,6 +62,8 @@ The implementation of the Water Monitoring System involves the following steps:
 ## Results
 
 The Water Monitoring System provides users with real-time information about the water level in their tanks, accessible through the Blynk mobile application or web dashboard. This helps users prevent water wastage by avoiding overflow and allows for efficient monitoring of water usage.
+
+
 ![image](https://github.com/karthikeyarama/WaterLevelMonitoringSystem/assets/93872893/922f5d25-d74d-42b0-bc26-59e4b0a440b6)
 ![image](https://github.com/karthikeyarama/WaterLevelMonitoringSystem/assets/93872893/7c4e1990-bfdc-41b3-aeb6-6365a37e5f43)
 ![image](https://github.com/karthikeyarama/WaterLevelMonitoringSystem/assets/93872893/ea40bb24-47a6-4b82-9092-beb612cd3a05)
